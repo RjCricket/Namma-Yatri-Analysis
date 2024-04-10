@@ -1,16 +1,19 @@
 
 # Namma Yatri Analysis
 
-The objective of this project is to gain insights into the trip booking process and user interactions within the Namma Yatri mobile app.
+The objective of this project is to gain insights into the trip booking process and user interactions within the Namma Yatri mobile app.   
+
+![Screenshot (1343)](https://github.com/RjCricket/Namma-Yatri-Analysis/assets/118374392/07586ad2-3f86-4653-97d2-9702b19be524)
+
 
 **tripid:** Unique identifier for each trip.  
 **Searches:** User inputs current location and destination.  
-**Searches_got_estimates:** User sees estimated fare price.
-**Searches_for_quotes:** User searches for available drivers.
-**Searches_got_quotes:** A driver is assigned to the customer.
-**customer_not_cancelled:** The customer didn't cancel the trip.
-**driver_not_cancelled:** The driver didn't cancel the trip.  
-**otp_entered:** OTP (One-Time Password) is entered, likely for authentication purposes.  
+**Searches_got_estimates:** User sees estimated fare price.  
+**Searches_for_quotes:** User searches for available drivers.  
+**Searches_got_quotes:** A driver is assigned to the customer.  
+**customer_not_cancelled:** The customer didn't cancel the trip.     
+**driver_not_cancelled:** The driver didn't cancel the trip.        
+**otp_entered:** OTP (One-Time Password) is entered, likely for authentication purposes.              
 **end_ride:** The driver ends the trip.
 
 ## Data Exploration using SQL
@@ -32,6 +35,17 @@ FROM trips_detail;
 
 ## Dashboard Creation using PowerBi
 
+### Dashboard link:  https://app.powerbi.com/view?r=eyJrIjoiNmJmOTRiZGUtNzU3YS00MTU4LWIyNGMtNzE3ZWY5MzBiMmU5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
 By visualizing key metrics and stages of the trip booking journey, the dashboard aims to help stakeholders understand user behavior, identify potential bottlenecks, and optimize the customer experience.  
 
-### Dashboard link:  https://app.powerbi.com/view?r=eyJrIjoiNmJmOTRiZGUtNzU3YS00MTU4LWIyNGMtNzE3ZWY5MzBiMmU5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+Here is the screenshot of the namma yatri website showing all the parameters.
+
+
+![Screenshot (1344)](https://github.com/RjCricket/Namma-Yatri-Analysis/assets/118374392/d9a5965c-e362-4311-932b-bb0d11dc0b25)
+
+
+Screenshot of my powerbi dashboard:
+
+![Screenshot (1334)](https://github.com/RjCricket/Namma-Yatri-Analysis/assets/118374392/fe8627ca-2caf-415d-b26d-c5a90201bf7e)
+
