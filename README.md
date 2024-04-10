@@ -1,7 +1,7 @@
 
 # Namma Yatri Analysis
 
-The objective of this project is to gain insights into the trip booking process of the Namma Yatri mobility application. 
+The objective of this project is to gain insights into the trip booking process and user interactions within the Namma Yatri mobile app.
 
 **tripid:** Unique identifier for each trip.  
 **Searches:** User inputs current location and destination.  
@@ -31,4 +31,7 @@ FROM trips_detail;
 
 
 ## Dashboard Creation using PowerBi
+
+By visualizing key metrics and stages of the trip booking journey, the dashboard aims to help stakeholders understand user behavior, identify potential bottlenecks, and optimize the customer experience.  
+
 ### Dashboard link:  https://app.powerbi.com/view?r=eyJrIjoiNmJmOTRiZGUtNzU3YS00MTU4LWIyNGMtNzE3ZWY5MzBiMmU5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
