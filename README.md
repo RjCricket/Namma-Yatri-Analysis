@@ -32,6 +32,15 @@ FROM trips_detail;
 
 ![Screenshot (1303)](https://github.com/RjCricket/Namma-Yatri-Analysis/assets/118374392/a295aafb-943c-455b-beaf-32fbf82e84b4)
 
+### Some of the Queries of the Project are:
+Q What is the total number of completed trips?  
+Q What is the total driver’s earnings during a day?  
+Q What is the average fare per trip?  
+Q What is conversion rate?  
+Q Who are the top 5 earning drivers?  
+Q In which duration, there is the highest number of trips in each of the location present?  
+Q Which area has highest number of cancellations by drivers?  
+Q Which driver and customer pair had most trips together?  
 
 ## Dashboard Creation using PowerBi
 
