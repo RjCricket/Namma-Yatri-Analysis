@@ -3,9 +3,6 @@
 
 The objective of this project is to gain insights into the trip booking process and user interactions within the Namma Yatri mobile app.   
 
-![Screenshot (1343)](https://github.com/RjCricket/Namma-Yatri-Analysis/assets/118374392/07586ad2-3f86-4653-97d2-9702b19be524)
-
-
 **tripid:** Unique identifier for each trip.  
 **Searches:** User inputs current location and destination.  
 **Searches_got_estimates:** User sees estimated fare price.  
@@ -46,7 +43,7 @@ Q Which driver and customer pair had most trips together?
 
 ## Dashboard Creation using PowerBi
 
-### Dashboard link:  https://app.powerbi.com/view?r=eyJrIjoiNmJmOTRiZGUtNzU3YS00MTU4LWIyNGMtNzE3ZWY5MzBiMmU5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+[PowerBi Dashboard link](https://app.powerbi.com/view?r=eyJrIjoiNmJmOTRiZGUtNzU3YS00MTU4LWIyNGMtNzE3ZWY5MzBiMmU5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 By visualizing key metrics and stages of the trip booking journey, the dashboard aims to help stakeholders understand user behavior, identify potential bottlenecks, and optimize the customer experience.  
 
