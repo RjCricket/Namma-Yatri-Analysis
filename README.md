@@ -27,8 +27,10 @@ In this project, we connected an Excel file containing our dataset to SQL for an
 
 3. **Perform Data Exploration and Analysis**: With the Excel data now available in the SQL database, we performed data exploration and analysis using SQL queries. This included tasks such as calculating basic statistics, analyzing data distributions, identifying patterns, and generating insights from the data.
 ### Example Queries:  
+```sql
 SELECT (COUNT(tripid) - SUM(driver_not_cancelled)) driver_cancelled_trips  
 FROM trips_detail;
+```
 
 ![Screenshot (1303)](https://github.com/RjCricket/Namma-Yatri-Analysis/assets/118374392/a295aafb-943c-455b-beaf-32fbf82e84b4)
 
